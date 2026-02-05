@@ -264,7 +264,12 @@ The matrix helps organizations prioritize risks based on their potential impact 
 
 ## Screenshots
 
-*(Note: Actual screenshots would be added here after running the application)*
+<img width="5088" height="3326" alt="image" src="https://github.com/user-attachments/assets/7a801e1a-56cb-427e-b12a-644564df8b70" />
+<img width="5088" height="3326" alt="image" src="https://github.com/user-attachments/assets/49a8f031-f1c5-4b73-8b9d-dad38c6ed6bd" />
+<img width="5088" height="3326" alt="image" src="https://github.com/user-attachments/assets/db9b7a2d-0c52-4673-bf4b-3672aa3f78c3" />
+<img width="5088" height="3326" alt="image" src="https://github.com/user-attachments/assets/dad29ae9-280b-4cf3-9866-a88354d081ef" />
+
+
 
 ## Development Notes
 
