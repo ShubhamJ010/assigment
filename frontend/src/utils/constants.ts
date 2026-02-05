@@ -8,8 +8,8 @@ export const MITIGATION_HINTS: Record<RiskLevel, string> = {
   Critical: 'Immediate mitigation required + executive reporting',
 };
 
-// API base URL
-export const API_BASE_URL = 'http://localhost:8000';
+// API base URL (override with VITE_API_BASE_URL if needed)
+export const API_BASE_URL = import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8080/api';
 
 // Risk level color configurations
 export const RISK_LEVEL_COLORS: Record<RiskLevel, { bg: string; text: string; heatmap: string }> = {
